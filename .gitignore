@@ -4,6 +4,7 @@
 # IntelliJ Projcet files
 *.xml
 *.idea
+*.iml
 
 # Log file
 *.log
